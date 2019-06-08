@@ -26,7 +26,7 @@ Circuit design and development is a multidisciplinary field so this project coul
 - dive deep into the mechanics and workings of the circuit and it's physical properties.
 
 ## Acknowledgements
-This project was developed for the third-year course `Laboratorio di elettronica` (https://fisica.campusnet.unito.it/do/storicocorsi.pl/Show?_id=d7bd_1819) at Unito's department of physics. The rights of the circuit itself go to Unito.
+This project was developed for the third-year course [`Laboratorio di elettronica`](https://fisica.campusnet.unito.it/do/storicocorsi.pl/Show?_id=d7bd_1819) at Unito's department of physics. The rights of the circuit itself go to Unito.
 
 I thank Stefano Giannini for helping with building and testing the circuit and with writing some smaller parts of the paper.
 
