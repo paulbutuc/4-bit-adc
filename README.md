@@ -14,6 +14,8 @@ There are four main sections in this paper:
 2. building, testing and analysis of the empirical data;
 3. conclusions and remarks on the strengths and limitations of the project as a whole.
 
+Here you can find an implementation of this circuit using a simple java analog circuit simulator: https://github.com/paulbutuc/4-bit-adc-simulation.
+
 ## Setup
 ![Schematics](schematics.png)
 
